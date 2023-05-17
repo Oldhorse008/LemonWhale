@@ -1,1 +1,5 @@
-
+cat_dog/dataset/test
+cat_dog/dataset/train
+model
+log
+cat_dog/code/__pycache__
